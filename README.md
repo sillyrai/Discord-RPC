@@ -7,4 +7,4 @@ after that open the "config.json" file and modify its contents to your liking to
 if everything is correct and there are no problems in your JSON file, this should show up when you open the "Discord-RPC.exe" executable
 ![](https://owowhatsthis.xyz/i/Yiff_me_please~4q0x8.png)
 
-if something else other than the sucess message appear, its likely that you've got an issue in your "config.json" file
+if something else other than the success message appear, its likely that you've got an issue in your "config.json" file
