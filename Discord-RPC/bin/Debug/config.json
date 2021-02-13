@@ -1,0 +1,29 @@
+{
+    "AppID": 0000000000000000000000000,
+    "Details": "",
+    "State": "",
+    "LargeAsset":
+    {
+        "Key": "",
+        "Tooltip": ""
+    },
+    "SmallAsset":
+    {
+        "Key": "",
+        "Tooltip": ""
+    },
+    "StartTime": "",
+    "Buttons":
+    {
+        "Button1":
+        {
+            "Text": "",
+            "URL": ""
+        },
+        "Button2":
+        {
+            "Text": "",
+            "URL": ""
+        }
+    }
+}

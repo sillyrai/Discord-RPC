@@ -1,0 +1,13 @@
+X:\Projects\Discord-RPC\Discord-RPC\bin\Debug\Discord-RPC.exe.config
+X:\Projects\Discord-RPC\Discord-RPC\bin\Debug\Discord-RPC.exe
+X:\Projects\Discord-RPC\Discord-RPC\bin\Debug\Discord-RPC.pdb
+X:\Projects\Discord-RPC\Discord-RPC\bin\Debug\DiscordRPC.dll
+X:\Projects\Discord-RPC\Discord-RPC\bin\Debug\Newtonsoft.Json.dll
+X:\Projects\Discord-RPC\Discord-RPC\bin\Debug\DiscordRPC.pdb
+X:\Projects\Discord-RPC\Discord-RPC\bin\Debug\DiscordRPC.xml
+X:\Projects\Discord-RPC\Discord-RPC\bin\Debug\Newtonsoft.Json.xml
+X:\Projects\Discord-RPC\Discord-RPC\obj\Debug\Discord-RPC.csprojAssemblyReference.cache
+X:\Projects\Discord-RPC\Discord-RPC\obj\Debug\Discord-RPC.csproj.CoreCompileInputs.cache
+X:\Projects\Discord-RPC\Discord-RPC\obj\Debug\Discord-RPC.csproj.CopyComplete
+X:\Projects\Discord-RPC\Discord-RPC\obj\Debug\Discord-RPC.exe
+X:\Projects\Discord-RPC\Discord-RPC\obj\Debug\Discord-RPC.pdb
