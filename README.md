@@ -1,4 +1,4 @@
-### Discord-RPC
+# Discord-RPC
 Lets users create their own custom rich presences on the Discord app, allows for buttons that lead to links
 ___
 To get started, download the Discord-RPC files from the [releases](https://github.com/Ra-iners/Discord-RPC/releases/tag/1 "releases")
